@@ -23,7 +23,9 @@ public void preencherManual(){
             dados[i][j] = sc.nextInt();
         }
     }
-    }
+}
+
+
 
     //preencher aut com valor entre 0 a 99
 
